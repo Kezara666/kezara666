@@ -8,7 +8,7 @@
 
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-![1cc4-article-220525-pypi-main](https://user-images.githubusercontent.com/87107996/216116279-79f93e66-0c71-463d-8e6b-543e3a72e156.jpg)
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/87107996/216116279-79f93e66-0c71-463d-8e6b-543e3a72e156.jpg")
 
 <img align="left" alt="Dart" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
