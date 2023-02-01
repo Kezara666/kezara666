@@ -1,6 +1,6 @@
 # 🏄‍♂️ Kezara Lakshan
 
-**` 🧑🏻‍💻 I'm a Musician /Audio programming jobs/Software Engineer `**
+**` 🧑🏻‍💻 I'm a Audio programmer/Software Engineer `**
 
 
 
