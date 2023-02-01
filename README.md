@@ -1,4 +1,4 @@
-# 🏄‍♂️ Kezara Lakshan
+# 💻 Kezara Lakshan
 
 **` 🧑🏻‍💻 I'm a Audio programmer/Software Engineer `**
 
