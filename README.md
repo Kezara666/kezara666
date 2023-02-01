@@ -34,10 +34,12 @@
 ### 👀 I’m interested in
     - Mobile App Development (Native Android App Development, Frameworks : Flutter) 
     - Game Development(Unity engine)
+    - Desktop Development (.net )
+    - IOT Development(Ardiuno , 🍓 raspberry ) 
     - CSS (Frameworks: Bootstrap) 
-    - JavaScript (Vanilla Js, Frameworks: React)
-    - Programming Languages (Java, JavaScript, Dart)
-    - Backend Web Development ([PHP, Frameworks: Laravel] [JS, Frameworks: NodeJS])
+    - JavaScript (Frameworks: Angular)
+    - Programming Languages (Java,Python,C#, JavaScript, Dart)
+    - Backend Web Development ([PHP, Frameworks: Laravel] [Pythonn, Framework: Django ] [JS, Frameworks: NodeJS])
    
     
 <br>
