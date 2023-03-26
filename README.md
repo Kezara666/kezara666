@@ -31,7 +31,7 @@
 
 #
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=kezara666&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kezara666&hide=html,swift,css,CMake,shell,c%2B%2B&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)               ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kezara666&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kezara666&hide=html,kotlin,swift,css,objective-c,batchfile,CMake,shell,c%2B%2B&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)               ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kezara666&show_icons=true&theme=radical)
 
 
 ### 🧰 Backend Developer
