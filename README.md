@@ -1,6 +1,6 @@
 # 💻 Kezara Lakshan
 
-**` 🧑🏻‍💻 I'm a Audio programmer/Software Engineer `**
+**` 🧑🏻‍💻 Hello I'm Kezara Lakshan Welcome `**
 
 
 
@@ -30,25 +30,46 @@
 <br>
 
 #
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=kezara666&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kezara666&hide=html,swift,css,CMake,&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)               ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kezara666&show_icons=true&theme=radical)
 
-### 👀 I’m interested in
-    - Mobile App Development (Native Android App Development, Frameworks : Flutter) 
-    - Game Development(Unity engine)
-    - Desktop Development (.net )
-    - IOT Development(Ardiuno , 🍓 raspberry ) 
-    - CSS (Frameworks: Bootstrap) 
-    - JavaScript (Frameworks: Angular)
-    - Programming Languages (Java,Python,C#, JavaScript, Dart)
-    - Backend Web Development ([PHP, Frameworks: Laravel] [Pythonn, Framework: Django ] [JS, Frameworks: NodeJS])
+
+### 🧰 Backend Developer
+<p>
+      I'm a Backend Developer with experience building Python, Flutter, Java, and PHP applications. Here are some of the technologies I'm proficient in:
+    </p>
+    <ul>
+      <li>
+        <strong>Python:</strong> Proficient in Pandas, Flask, and Scikit-learn.
+        Built a sentiment analysis model using Python and deployed it on a web app and machine learning.
+      </li>
+      <li>
+        <strong>Flutter:</strong> Experienced in building mobile apps with Flutter. Created a social networking app that features real-time updates, push notifications, and user profiles.
+      </li>
+      <li>
+        <strong>Java:</strong> Skilled in Spring, Hibernate, and JUnit. Developed a RESTful web service using Spring Boot that integrates with a payment gateway.
+      </li>
+      <li>
+        <strong>PHP:</strong> Proficient in Laravel and CodeIgniter. Built an e-commerce website with a custom CMS and integrated payment and shipping APIs.
+      </li>
+    </ul>
+    <h2>📚 Education</h2>
+    <ul>
+      <li>Bachelor of Information Technology(SIBA Campus[Srilanka])</li>
+     <li>Bachelor of Performing Arts (Honours) Music(University of the Visual and Performing Arts[Srilanka])</li>
+      <li>CertificationsMachine Learning - Python, Keras, SKLearn (NovTech[Srilanka])
+</li>
+    </ul>
    
-    
-<br>
+   
 
-- 🌱 I’m currently learning more about JS frameworks and Mobile Application development 
 
-<br>
 
-- 📫 You can reach me on [Facebook](https://www.facebook.com/kehsra/)
+
+
+<a href='https://web.facebook.com/kehsra/'>![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
+<a href='+94768000534'>![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
+<a href='https://www.linkedin.com/in/kesara-lakshan/'>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 ---
 
