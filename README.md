@@ -57,7 +57,7 @@
     <ul>
       <li>Bachelor of Information Technology(SIBA Campus[Srilanka])</li>
      <li>Bachelor of Performing Arts (Honours) Music(University of the Visual and Performing Arts[Srilanka])</li>
-      <li>CertificationsMachine Learning - Python, Keras, SKLearn (NovTech[Srilanka])
+      <li>CertificationsMachine Learning - Python, Keras, SKLearn 
 </li>
     </ul>
    
