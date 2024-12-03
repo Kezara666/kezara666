@@ -7,7 +7,6 @@
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/800px-C_Sharp_wordmark.svg.png"/>
@@ -34,32 +33,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kezara666&hide=html,kotlin,swift,css,objective-c,batchfile,CMake,shell&langs_count=10&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)               ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kezara666&show_icons=true&theme=radical&hide=commits,prs,contribs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kezara666&hide=c,html,kotlin,swift,css,objective-c,batchfile,CMake,shell,c%2B%2B&langs_count=10&hide_progress=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### 🧰 Backend Developer
-<p>
-      I'm a Backend Developer with experience building Python, Flutter, Java, and PHP applications. Here are some of the technologies I'm proficient in:
-    </p>
-    <ul>
-      <li>
-        <strong>Python:</strong> Proficient in Pandas, Flask, and Scikit-learn.
-        Built a sentiment analysis model using Python and deployed it on a web app and machine learning.
-      </li>
-      <li>
-        <strong>Flutter:</strong> Experienced in building mobile apps with Flutter. Created a social networking app that features real-time updates, push notifications, and user profiles.
-      </li>
-      <li>
-        <strong>Java:</strong> Skilled in Spring, Hibernate, and JUnit. Developed a RESTful web service using Spring Boot that integrates with a payment gateway.
-      </li>
-      <li>
-        <strong>PHP:</strong> Proficient in Laravel and CodeIgniter. Built an e-commerce website with a custom CMS and integrated payment and shipping APIs.
-      </li>
-    </ul>
-    <h2>📚 Education</h2>
-    <ul>
-      <li>Bachelor of Information Technology(SIBA Campus[Srilanka])</li>
-     <li>Bachelor of Performing Arts (Honours) Music(University of the Visual and Performing Arts[Srilanka])</li>
-      <li>CertificationsMachine Learning - Python, Keras, SKLearn 
-</li>
-    </ul>
+🧰 Fullstack Developer
+<p> I'm a Fullstack Developer with extensive experience building and deploying applications across various platforms using .NET (Backend), Angular (Web Frontend), and Flutter (Mobile). Below are some of the key technologies and areas of expertise: </p> <ul> <li> <strong>C# & .NET:</strong> Proficient in enterprise-level applications for HRM, finance, and POS systems. Developed scalable APIs using ASP.NET Core and integrated multiple third-party services. </li> <li> <strong>Angular:</strong> Expert in building dynamic, responsive web applications using Angular with standalone components. Delivered solutions for inventory and workflow management. </li> <li> <strong>Flutter:</strong> Created cross-platform mobile apps, enabling real-time communication and service desk functionalities. </li> <li> <strong>NestJS:</strong> Built backend systems with NestJS and TypeORM, focusing on modular inventory and POS solutions. </li> <li> <strong>Azure:</strong> Hands-on experience with Azure services, ensuring scalable and secure cloud deployments. Certified in **AZ-104** and **AZ-900**. </li> <li> <strong>Python:</strong> Proficient in machine learning and data analysis using Pandas and Scikit-learn. </li> </ul>
+<h2>📚 Education</h2> <ul> <li>Master of Science in Computer Science (University of Sri Jayewardenepura, Sri Lanka)</li> <li>Bachelor of Science in Information Technology (SIBA Campus, Sri Lanka)</li> <li>Certifications: Machine Learning with Python (Keras, Scikit-learn), Microsoft Certified: Azure Administrator Associate (AZ-104), Microsoft Certified: Azure Fundamentals (AZ-900)</li> </ul>
+<h2>🛠️ Professional Experience</h2> <p> I have worked on government <img src="https://slmun.org/wp-content/uploads/2023/03/UNICEF-Logo-400x300.png"> and private sector projects, including initiatives funded by international organizations like UNICEF. My experience spans developing secure, scalable, and user-friendly solutions to meet diverse organizational needs. </p>
+
+
    
    
 
