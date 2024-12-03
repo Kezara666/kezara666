@@ -38,9 +38,9 @@
 <h2>📚 Education</h2> <ul> <li>Master of Science in Computer Science (University of Sri Jayewardenepura, Sri Lanka)</li> <li>Bachelor of Science in Information Technology (SIBA Campus, Sri Lanka)</li> <li>Certifications: Machine Learning with Python (Keras, Scikit-learn), Microsoft Certified: Azure Administrator Associate (AZ-104), Microsoft Certified: Azure Fundamentals (AZ-900)</li> </ul>
 <h2>🛠️ Professional Experience</h2> <p> I have worked on government and private sector projects, including initiatives funded by international organizations like UNICEF. My experience spans developing secure, scalable, and user-friendly solutions to meet diverse organizational needs. </p>
 <img src="https://slmun.org/wp-content/uploads/2023/03/UNICEF-Logo-400x300.png">
-<img src="https://www.nie.ac.lk/wp-content/themes/nietheme/assets/img/NIE-logo.png" alt="NIE Logo" width="100" style="background-color: white;">
+<img src="https://www.nie.ac.lk/wp-content/themes/nietheme/assets/img/NIE-logo.png" alt="NIE Logo">
 <img src="https://www.wda.lk/images/logos/logowda.png">
-<img src="https://e7.pngegg.com/pngimages/405/106/png-clipart-emblem-of-sri-lanka-government-of-sri-lanka-national-emblem-sri-lankan-moors-emblem-of-sri-lanka-emblem-logo.png">
+<img src="https://thumbs.dreamstime.com/z/vector-illustration-national-emblem-democratic-socialist-republic-sri-lanka-national-emblem-sri-lanka-193888431.jpg">
 
 
    
