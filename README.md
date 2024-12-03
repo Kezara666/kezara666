@@ -37,17 +37,13 @@
 <p> I'm a Fullstack Developer with extensive experience building and deploying applications across various platforms using .NET (Backend), Angular (Web Frontend), and Flutter (Mobile). Below are some of the key technologies and areas of expertise: </p> <ul> <li> <strong>C# & .NET:</strong> Proficient in enterprise-level applications for HRM, finance, and POS systems. Developed scalable APIs using ASP.NET Core and integrated multiple third-party services. </li> <li> <strong>Angular:</strong> Expert in building dynamic, responsive web applications using Angular with standalone components. Delivered solutions for inventory and workflow management. </li> <li> <strong>Flutter:</strong> Created cross-platform mobile apps, enabling real-time communication and service desk functionalities. </li> <li> <strong>NestJS:</strong> Built backend systems with NestJS and TypeORM, focusing on modular inventory and POS solutions. </li> <li> <strong>Azure:</strong> Hands-on experience with Azure services, ensuring scalable and secure cloud deployments. Certified in **AZ-104** and **AZ-900**. </li> <li> <strong>Python:</strong> Proficient in machine learning and data analysis using Pandas and Scikit-learn. </li> </ul>
 <h2>📚 Education</h2> <ul> <li>Master of Science in Computer Science (University of Sri Jayewardenepura, Sri Lanka)</li> <li>Bachelor of Science in Information Technology (SIBA Campus, Sri Lanka)</li> <li>Certifications: Machine Learning with Python (Keras, Scikit-learn), Microsoft Certified: Azure Administrator Associate (AZ-104), Microsoft Certified: Azure Fundamentals (AZ-900)</li> </ul>
 <h2>🛠️ Professional Experience</h2> <p> I have worked on government and private sector projects, including initiatives funded by international organizations like UNICEF. My experience spans developing secure, scalable, and user-friendly solutions to meet diverse organizational needs. </p>
-<img src="https://slmun.org/wp-content/uploads/2023/03/UNICEF-Logo-400x300.png">
-<img src="https://www.nie.ac.lk/wp-content/themes/nietheme/assets/img/NIE-logo.png" alt="NIE Logo">
-<img src="https://www.wda.lk/images/logos/logowda.png">
-<img src="https://thumbs.dreamstime.com/z/vector-illustration-national-emblem-democratic-socialist-republic-sri-lanka-national-emblem-sri-lanka-193888431.jpg">
 
-
-   
-   
-
-
-
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://slmun.org/wp-content/uploads/2023/03/UNICEF-Logo-400x300.png" alt="UNICEF Logo" style="width: 300px; height: auto;">
+  <img src="https://www.nie.ac.lk/wp-content/themes/nietheme/assets/img/NIE-logo.png" alt="NIE Logo" style="width: 300px; height: auto;">
+  <img src="https://www.wda.lk/images/logos/logowda.png" alt="WDA Logo" style="width: 300px; height: auto;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Emblem_of_Sri_Lanka.svg/722px-Emblem_of_Sri_Lanka.svg.png" alt="Sri Lanka Government Logo" style="width: 150px; height: 200px;">
+</div>
 
 
 <a href='https://web.facebook.com/kehsra/'>![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
