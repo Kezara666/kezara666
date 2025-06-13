@@ -2,7 +2,7 @@
 
 <h1>🧑🏻‍💻 Hello I'm Kezara Lakshan</h1>
 <h2>👋 Welcome! Look at my website</h2>
-<p><a href="https://kesara-68dbc.web.app/">🌐 kesara-portfolio.web.app</a></p>
+<h1><a href="https://kesara-68dbc.web.app/">🌐 kesara-portfolio.web.app</a></h1>
 
 
 ### 🧰 Languages and Tools
