@@ -1,0 +1,35 @@
+# Generates a snake animation from your GitHub contribution graph.
+# The SVG is written to the `output` branch and displayed in your profile README.
+
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # daily
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: Platane/snake@v4
+        id: snake
+        with:
+          github_user_name: Kezara666
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg
+            dist/ocean.gif
+
+      - name: Push snake to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_dir: dist
+          build_dir: dist
+          branch: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
