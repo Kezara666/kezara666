@@ -43,14 +43,14 @@
 ### 👋 Hey there — I'm **Kezara Lakshan**
 
 ```diff
-+ Software Engineer · Full-Stack · Mobile · Cloud
++ Software Engineer · Full-Stack · Web | Mobile · Cloud
 + Nittambuwa, Sri Lanka · Open to remote & onsite roles
-! Currently shipping production code @ Efito Solutions
+! Currently shipping production code
 ```
 
 I turn complex business problems into **clean, scalable software** — the kind that runs in government data centers, bank infrastructure, and app stores with real users every day.
 
-From architecting the **[WESL Community App](https://wesl.lk/)** to building **[BuilderBid CRM](https://builderbid.com)** and national platforms like **[CAT2020](https://www.cat2020.lk/)** & **[NIE Broadcasting](https://alphau.nie.ac.lk)** — I own the full lifecycle: **API design → UI → mobile → CI/CD → cloud deploy**.
+From architecting the **[WESL Community App](https://wesl.lk/)** to building **[BuilderBid CRM Mobile](https://builderbid.com)** and national platforms like **[CAT2020](https://www.cat2020.lk/)** & **[NIE Broadcasting](https://alphau.nie.ac.lk)** — I own the full lifecycle: **API design → UI → mobile → CI/CD → cloud deploy**.
 
 </td>
 </tr>
