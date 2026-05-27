@@ -23,22 +23,95 @@
 
 ## About Me
 
-```typescript
-const kesara = {
-  role: "Full-Stack Software Engineer",
-  focus: ["Enterprise Web", "Mobile Apps", "Cloud & DevOps"],
-  backend: ["C#", ".NET Core", "NestJS", "Node.js", "Java"],
-  frontend: ["Angular", "TypeScript", "Flutter", "Dart"],
-  cloud: ["Microsoft Azure (AZ-104, AZ-900)", "Firebase", "Docker"],
-  databases: ["SQL Server", "MongoDB", "MySQL", "Firestore"],
-  currently: "Building MERN microservices @ Efito · BuilderBid CRM mobile",
-  askMeAbout: ["ASP.NET APIs", "Flutter mobile", "Angular dashboards"],
-};
+<table>
+<tr>
+<td width="220" align="center" valign="top">
+
+<img src="https://github.com/Kezara666.png" width="180" alt="Kezara Lakshan" />
+
+<br />
+
+[![AZ-104](https://img.shields.io/badge/Azure-AZ--104-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/)
+[![AZ-900](https://img.shields.io/badge/Azure-AZ--900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/)
+<br />
+[![MSc CS](https://img.shields.io/badge/MSc-Computer_Science-6366f1?style=flat-square)](https://www.sjp.ac.lk/)
+[![BSc IT](https://img.shields.io/badge/BSc-Information_Technology-0ea5e9?style=flat-square)](https://siba.edu.lk/)
+
+</td>
+<td valign="top">
+
+### 👋 Hey there — I'm **Kezara Lakshan**
+
+```diff
++ Software Engineer · Full-Stack · Mobile · Cloud
++ Nittambuwa, Sri Lanka · Open to remote & onsite roles
+! Currently shipping production code @ Efito Solutions
 ```
 
-Software Engineer with **4+ years** delivering banking, government, garment ERP, and community platforms — from nationally-scaled systems (NIE/UNICEF, CAT2020) to production mobile apps on App Store & Google Play.
+I turn complex business problems into **clean, scalable software** — the kind that runs in government data centers, bank infrastructure, and app stores with real users every day.
 
-> *88+ repositories · Government · Banking · Enterprise · Community apps*
+From architecting the **[WESL Community App](https://wesl.lk/)** to building **[BuilderBid CRM](https://builderbid.com)** and national platforms like **[CAT2020](https://www.cat2020.lk/)** & **[NIE Broadcasting](https://alphau.nie.ac.lk)** — I own the full lifecycle: **API design → UI → mobile → CI/CD → cloud deploy**.
+
+</td>
+</tr>
+</table>
+
+<br />
+
+<div align="center">
+
+| ⚡ **4+ Years** | 📦 **88+ Repos** | 🏛️ **Gov Systems** | 📱 **App Store & Play** | ☁️ **Azure Certified** |
+|:---:|:---:|:---:|:---:|:---:|
+| Production delivery | Public & private | NIE · CAT2020 | WESL · BuilderBid | AZ-104 · AZ-900 |
+
+</div>
+
+<br />
+
+<table>
+<tr>
+<th width="50%">🛠️ What I Build</th>
+<th width="50%">⚙️ How I Work</th>
+</tr>
+<tr>
+<td valign="top">
+
+• Enterprise **REST APIs** (.NET Core, NestJS, Express)  
+• **Angular & React** dashboards & admin portals  
+• **Flutter** iOS/Android apps with offline & push  
+• **Real-time** systems — SignalR, Kafka, Socket.IO  
+• **Payment & finance** flows — PayHere, banking logic  
+• **CRM & ERP** — pipelines, estimating, inventory  
+
+</td>
+<td valign="top">
+
+• **Repository & Unit of Work** design patterns  
+• **JWT auth**, role-based access, secure APIs  
+• **Docker + Jenkins** CI/CD pipelines  
+• **Azure & GCP** deployment & DevOps  
+• **NUnit** testing & code reviews  
+• End-to-end ownership — design to production  
+
+</td>
+</tr>
+</table>
+
+<br />
+
+```js
+🚀 currently @ Efito Solutions     →  MERN microservices · Apache Kafka · BuilderBid CRM mobile
+🏗️ previously @ WESL (Senior SE)   →  .NET API · React admin · Flutter app · Azure
+🏦 previously @ Seylan Bank        →  Loan scheduler · .NET Core · Angular
+👔 previously @ Emjay Penguin      →  Garment ERP · Azure DevOps · Flutter factory apps
+🏛️ previously @ Real IT            →  NIE/UNICEF streaming · CAT2020 payment portal
+```
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/📄_View_Full_Portfolio-kesara--68dbc.web.app-0ea5e9?style=for-the-badge)](https://kesara-68dbc.web.app/)
+
+</div>
 
 ---
 
