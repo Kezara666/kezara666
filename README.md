@@ -173,7 +173,12 @@ I'm open to **full-time, contract, and remote** opportunities.
 
 <br />
 
-<img src="https://raw.githubusercontent.com/Kezara666/Kezara666/output/snake.svg" alt="Contribution snake" />
+<!-- Snake animation — generated daily by .github/workflows/snake.yml -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kezara666/kezara666/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kezara666/kezara666/output/github-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Kezara666/kezara666/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
