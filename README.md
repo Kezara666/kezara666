@@ -31,77 +31,80 @@ const kesara = {
   frontend: ["Angular", "TypeScript", "Flutter", "Dart"],
   cloud: ["Microsoft Azure (AZ-104, AZ-900)", "Firebase", "Docker"],
   databases: ["SQL Server", "MongoDB", "MySQL", "Firestore"],
-  currently: "Shipping CRM, construction-tech & AI workforce platforms",
+  currently: "Building MERN microservices @ Efito · BuilderBid CRM mobile",
   askMeAbout: ["ASP.NET APIs", "Flutter mobile", "Angular dashboards"],
 };
 ```
 
-I design and ship **secure, scalable software** for government, enterprise, and startup teams — from national payment portals serving the public to cross-platform mobile apps with real-time communication.
+Software Engineer with **4+ years** delivering banking, government, garment ERP, and community platforms — from nationally-scaled systems (NIE/UNICEF, CAT2020) to production mobile apps on App Store & Google Play.
 
-> *4+ years building production systems · 88+ repositories · Government & private sector*
+> *88+ repositories · Government · Banking · Enterprise · Community apps*
 
 ---
 
 ## Featured Work
 
+*Live production systems from my CV — click to visit*
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🇱🇰 Sri Lanka Government Payment Portal
-**[CAT2020 Backend](https://github.com/Kezara666/SriLankaGovermentOnlinePaymentPortal-DEV)** · Live at [cat2020.lk](https://www.cat2020.lk/)
+### 🎓 NIE/UNICEF Education Broadcasting
+**[alphau.nie.ac.lk](https://alphau.nie.ac.lk)**
 
-National finance platform — property booking, online payments, SignalR real-time updates.
+Real-time national education streaming platform for government stakeholders — National Institute of Education & UNICEF Sri Lanka.
 
-`C#` `ASP.NET Core` `Flutter` `SQL Server` `PayHere` `SignalR`
+`ASP.NET Core` `SignalR` `Flutter` `Icecast` `MSSQL` `Azure` `Docker`
 
 </td>
 <td width="50%" valign="top">
 
-### 📱 Government Mobile Suite
-**[CAT2020 Mobile](https://github.com/Kezara666/project-cat20lk-goverment_mobile)** · **[Payment UI](https://github.com/Kezara666/cat2020-onlinepay-frontend-main)**
+### 🇱🇰 CAT2020 Government Payment Portal
+**[cat2020.lk](https://www.cat2020.lk/)**
 
-Cross-platform Flutter app + Angular payment gateway with OTP & digital signatures.
+Finance management & property booking — PayHere payments, SignalR real-time data, QR scanning & report generation.
 
-`Flutter` `Angular` `TypeScript` `Firebase`
+`C#` `.NET Core` `Flutter` `SQL Server` `PayHere` `SignalR`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🏗️ Full-Stack POS Enterprise
-**[Fullstack-MCP-POS-Enterprise](https://github.com/Kezara666/Fullstack-MCP-POS-Enterprise)**
+### 🌐 WESL Community App
+**[Google Play](https://play.google.com/store/apps/details?id=com.weblook.wesl)** · **[App Store](https://apps.apple.com/us/app/wesl/id1561916617)** · **[wesl.lk](https://wesl.lk/)**
 
-Modular retail POS — NestJS API, Angular web, inventory & sales management.
+All-in-one Sri Lankan community platform — event ticketing (QR), radio streaming, restaurant reservations, appointments & business listings. Led architecture as Senior Software Engineer.
 
-`NestJS` `TypeScript` `Angular` `MongoDB`
+`.NET Web API` `React` `Flutter` `Azure`
 
 </td>
 <td width="50%" valign="top">
 
-### 🎓 NIE Education Platform
-**[nieproject](https://github.com/Kezara666/nieproject)**
+### 🏗️ BuilderBid CRM Mobile
+**[builderbid.com](https://builderbid.com)** · **[App Store](https://apps.apple.com/us/app/builderbid/id6755717767)**
 
-Audio learning, chat, calendar playlists & video calls for Sri Lanka's National Institute of Education.
+Cloud construction estimating & CRM — lead tracking, pipeline, unified inbox, SMS replies & AI receptionist for builders and contractors.
 
-`Flutter` `Firebase` `ZegoCloud` `GetX`
+`Flutter` `MERN` `Angular` `MongoDB` `Kafka`
 
 </td>
 </tr>
 </table>
 
 <details>
-<summary><b>More projects</b></summary>
+<summary><b>GitHub open-source projects</b></summary>
 <br />
 
 | Project | Stack | Link |
 |---------|-------|------|
-| Employee Management System | .NET + Angular | [API](https://github.com/Kezara666/EMPMSAPI) · [Web](https://github.com/Kezara666/EmsFrontend) |
-| Bar Management System | .NET + Angular | [API](https://github.com/Kezara666/Bar-Management-System) · [UI](https://github.com/Kezara666/bms) |
+| CAT2020 Backend | .NET Core | [Repo](https://github.com/Kezara666/SriLankaGovermentOnlinePaymentPortal-DEV) |
+| CAT2020 Mobile & Payment UI | Flutter + Angular | [Mobile](https://github.com/Kezara666/project-cat20lk-goverment_mobile) · [UI](https://github.com/Kezara666/cat2020-onlinepay-frontend-main) |
 | WESL Ticket System | Angular 18 + PrimeNG | [Repo](https://github.com/Kezara666/wesl-ticket-system) |
-| Ranro Loan Mobile | Flutter + Bluetooth Print | [Repo](https://github.com/Kezara666/Ranro-Loan) |
-| Spring Boot API | Java | [Repo](https://github.com/Kezara666/gscomp311-springboot) |
+| NIE Flutter App (legacy) | Flutter + Firebase | [Repo](https://github.com/Kezara666/nieproject) |
+| Full-Stack POS Enterprise | NestJS + Angular | [Repo](https://github.com/Kezara666/Fullstack-MCP-POS-Enterprise) |
+| Employee Management | .NET + Angular | [API](https://github.com/Kezara666/EMPMSAPI) · [Web](https://github.com/Kezara666/EmsFrontend) |
 
 </details>
 
@@ -142,10 +145,11 @@ Audio learning, chat, calendar playlists & video calls for Sri Lanka's National 
 
 | Sector | Projects |
 |--------|----------|
-| **Government** | CAT2020 National Payment Portal · NIE Education Platform · WDA |
-| **Enterprise** | CRM systems · POS & inventory · HRM · Bar/restaurant management |
-| **International** | UNICEF-funded initiatives · Construction-tech platforms |
-| **Mobile** | Flutter apps with chat, calls, GPS, offline sync & push notifications |
+| **Government** | [NIE/UNICEF Broadcasting](https://alphau.nie.ac.lk) · [CAT2020 Portal](https://www.cat2020.lk/) |
+| **Community** | [WESL App](https://wesl.lk/) · Event ticketing · Radio streaming |
+| **Construction Tech** | [BuilderBid CRM](https://builderbid.com) · Estimating · AI receptionist |
+| **Banking** | Seylan Bank loan scheduler · Interest & installment automation |
+| **Enterprise** | Garment ERP (Emjay) · MERN microservices (Efito) · POS & HRM |
 
 ---
 
@@ -153,11 +157,12 @@ Audio learning, chat, calendar playlists & video calls for Sri Lanka's National 
 
 | | |
 |---|---|
-| 🎓 **MSc** | Computer Science — University of Sri Jayewardenepura |
-| 🎓 **BSc** | Information Technology — SIBA Campus |
+| 🎓 **MSc** | Computer Science — University of Sri Jayewardenepura *(In Progress)* |
+| 🎓 **BSc (Hons)** | Information Technology — SIBA Campus |
 | ☁️ **AZ-104** | Microsoft Certified: Azure Administrator Associate |
 | ☁️ **AZ-900** | Microsoft Certified: Azure Fundamentals |
-| 🤖 **ML** | Machine Learning with Python (Keras, Scikit-learn) |
+| 🔄 **CI/CD** | Continuous Integration and Continuous Delivery |
+| 📱 **Meta** | Android Mobile Application Development · Version Control with Git |
 
 ---
 
