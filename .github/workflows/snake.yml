@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: Platane/snake@v4
+      - uses: Platane/snk@v3
         id: snake
         with:
           github_user_name: Kezara666
